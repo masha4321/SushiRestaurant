@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "533ObADNJIlbw6/mWW727TLqG3dFHa9I8x3SMfdutP6ZbVkE3AmIgtuDpVA6FzMWpCsMbTZu97BqqGYlUfvP2w==",
+  "dgSpecHash": "KAWNvwxzER79CkXeXyh9HT3I8PmVK2xrPYHSWTMDcXYUTqPIu8F8u4NG8Nf4+52Q/VBjN85brHx4UrGDjDMENQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maryia\\source\\repos\\SushiRestaurant\\SushiRestaurant\\SushiRestaurant.csproj",
+  "projectFilePath": "C:\\Users\\Maryia\\Desktop\\SushiRestaurant\\SushiRestaurant\\SushiRestaurant.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maryia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Maryia\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

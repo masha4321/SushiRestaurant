@@ -8,49 +8,109 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SushiRestaurant
 build_property.RootNamespace = SushiRestaurant
-build_property.ProjectDir = C:\Users\Maryia\source\repos\SushiRestaurant\SushiRestaurant\
+build_property.ProjectDir = C:\Users\Maryia\Desktop\SushiRestaurant\SushiRestaurant\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Maryia\source\repos\SushiRestaurant\SushiRestaurant
+build_property.MSBuildProjectDirectory = C:\Users\Maryia\Desktop\SushiRestaurant\SushiRestaurant
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Maryia/source/repos/SushiRestaurant/SushiRestaurant/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Maryia/source/repos/SushiRestaurant/SushiRestaurant/Views/Home/AboutUs.cshtml]
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Home/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Maryia/source/repos/SushiRestaurant/SushiRestaurant/Views/Home/ContactUs.cshtml]
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Home/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Maryia/source/repos/SushiRestaurant/SushiRestaurant/Views/Home/Index.cshtml]
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Maryia/source/repos/SushiRestaurant/SushiRestaurant/Views/Shared/Error.cshtml]
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Maryia/source/repos/SushiRestaurant/SushiRestaurant/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Maryia/source/repos/SushiRestaurant/SushiRestaurant/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Maryia/source/repos/SushiRestaurant/SushiRestaurant/Views/_ViewImports.cshtml]
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Maryia/source/repos/SushiRestaurant/SushiRestaurant/Views/_ViewStart.cshtml]
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Maryia/source/repos/SushiRestaurant/SushiRestaurant/Views/Shared/_Layout.cshtml]
+[C:/Users/Maryia/Desktop/SushiRestaurant/SushiRestaurant/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xfyrkjzz9m
