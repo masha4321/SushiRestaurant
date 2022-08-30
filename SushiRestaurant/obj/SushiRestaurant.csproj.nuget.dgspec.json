@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maryia\\Desktop\\SushiRestaurant\\SushiRestaurant\\SushiRestaurant.csproj": {}
+    "G:\\Desktop\\Desktop\\Media\\School\\Application Development 2\\Final Project\\SushiRestaurant\\SushiRestaurant\\SushiRestaurant.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maryia\\Desktop\\SushiRestaurant\\SushiRestaurant\\SushiRestaurant.csproj": {
+    "G:\\Desktop\\Desktop\\Media\\School\\Application Development 2\\Final Project\\SushiRestaurant\\SushiRestaurant\\SushiRestaurant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maryia\\Desktop\\SushiRestaurant\\SushiRestaurant\\SushiRestaurant.csproj",
+        "projectUniqueName": "G:\\Desktop\\Desktop\\Media\\School\\Application Development 2\\Final Project\\SushiRestaurant\\SushiRestaurant\\SushiRestaurant.csproj",
         "projectName": "SushiRestaurant",
-        "projectPath": "C:\\Users\\Maryia\\Desktop\\SushiRestaurant\\SushiRestaurant\\SushiRestaurant.csproj",
-        "packagesPath": "C:\\Users\\Maryia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maryia\\Desktop\\SushiRestaurant\\SushiRestaurant\\obj\\",
+        "projectPath": "G:\\Desktop\\Desktop\\Media\\School\\Application Development 2\\Final Project\\SushiRestaurant\\SushiRestaurant\\SushiRestaurant.csproj",
+        "packagesPath": "C:\\Users\\Erich\\.nuget\\packages\\",
+        "outputPath": "G:\\Desktop\\Desktop\\Media\\School\\Application Development 2\\Final Project\\SushiRestaurant\\SushiRestaurant\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Maryia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Erich\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

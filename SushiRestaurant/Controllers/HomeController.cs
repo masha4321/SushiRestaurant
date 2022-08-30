@@ -22,6 +22,8 @@ namespace SushiRestaurant.Controllers
         {
             return View();
         }
+        //this is a comment
+        //this is another comment
         public IActionResult ContactUs()
         {
             return View();
