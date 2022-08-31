@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using SushiRestaurant.Models;
 using System.Diagnostics;
 
@@ -17,11 +18,12 @@ namespace SushiRestaurant.Controllers
         {
             return View();
         }
-
+        [AllowAnonymous]
         public IActionResult AboutUs()
         {
             return View();
         }
+        [AllowAnonymous]
         public IActionResult ContactUs()
         {
             return View();
